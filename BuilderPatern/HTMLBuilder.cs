@@ -5,7 +5,7 @@ using System.Text;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace DesignPattern_Builder
+namespace BuilderPattern
 {
     public class HTMLBuilder : IBuilder<FileInfo>
     {
